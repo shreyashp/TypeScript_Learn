@@ -1,3 +1,8 @@
+//IMPORTANT:: To run this code type in terminal
+// tsc NameSpace.ts --outfile out.js
+// then type node out.js
+//this is because namespace creation needs us to setup another named output file to run
+
 //NameSpace here is a way of organizing and structuring code,
 //When code have multiple elements for same usability , they can be put under same namspace for optimum
 //code handling
