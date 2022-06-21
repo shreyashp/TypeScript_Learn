@@ -1,4 +1,5 @@
-//Union Type: Ts let us associate multiple types with a variable, other than using 'any'
+"use strict";
+exports.__esModule = true;
 var multiType;
 multiType = 10;
 multiType = true;
@@ -21,3 +22,4 @@ function display(item) {
 }
 display(11);
 display('TypeScript');
+display(true);
