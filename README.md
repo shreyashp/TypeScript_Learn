@@ -4,9 +4,10 @@
 ## For setup and DIY :
 
  1. Install VS Code (Preffered) : https://code.visualstudio.com/
- 2. Install Node (for executing transpiled JS code) : https://nodejs.org/en/ (check node -v, npm -v)
- 3. Install TypeScript (npm install -g typescript)
- 4. Good to go !
+ 2. Clone the repo (either download zip or by url or fork)
+ 3. Install Node (for executing transpiled JS code) : https://nodejs.org/en/ (check node -v, npm -v)
+ 4. Install TypeScript (npm install -g typescript)
+ 5. Good to go !
 
 ## To Run a code on console:
 
