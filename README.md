@@ -17,8 +17,8 @@
    ### tsc <file_name>.ts or tsc <file_name> (ts extention is optional)
  4. After this a <file_name>.js file will be created.
     Note: for executing .ts file in watch mode, refer "WATCH MODE EXECUTION SECTION"
- 5. Run .js file using node: on terminal node 
-   ### <file_name>.js or node <file_name>
+ 5. Run .js file using node: on terminal
+   ### node <file_name>.js or node <file_name>
  6. Check output on the console
 
 ## WATCH MODE EXECUTION
